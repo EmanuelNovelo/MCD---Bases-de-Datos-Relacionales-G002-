@@ -2,9 +2,8 @@
 Bases de Datos Relacionales - 1er Tetramestre
 
 Esta fue la primera actividad
+(Hacer commits)
 
-*2do commit*
-
-## Hola
+## Aqui la lista de tareas
 
 - [Tarea 1](./Clase%201/Tarea%201)

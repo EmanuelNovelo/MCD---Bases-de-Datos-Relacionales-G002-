@@ -6,3 +6,5 @@ Esta fue la primera actividad
 *2do commit*
 
 ## Hola
+
+- [Tarea 1](./Clase%201/Tarea%201.md)

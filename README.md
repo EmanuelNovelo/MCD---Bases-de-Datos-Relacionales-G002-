@@ -7,3 +7,4 @@ Esta fue la primera actividad
 ## Aqui la lista de tareas
 
 - [Tarea 1](./Clase%201/Tarea%201)
+- Tarea 2

@@ -7,4 +7,4 @@ Esta fue la primera actividad
 
 ## Hola
 
-- [Tarea 1](./Clase%201/Tarea%201.md)
+- [Tarea 1](./Clase%201/Tarea%201)

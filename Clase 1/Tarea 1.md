@@ -1,16 +1,17 @@
 # Tarea 1 
 ## Instrucciones 
 
-1. --crear un reposotorio publico en github--
-2. --compartir el repositorio en el teaqms--
-3. describir una base de datos y sus relaciones de manera no estructurada (puede ser un parrafo, lista, esquema) con la que trabajar durante el semestre. Agrega el tipo de dato que supones tendra cada uno de tus atributos
-4. investigar diferentes SGBD, elegir alguno y describirlo. Citar adecuadamente. Plagio invalida tarea
-5. subir esta descripcion en un archivo MD o PDF claramente (ponerle de nombre tarea 1 o algo asi)
+1. ~~crear un reposotorio publico en github~~
+2. ~~compartir el repositorio en el teaqms~~
+3. ~~describir una base de datos y sus relaciones de manera no estructurada (puede ser un parrafo, lista, esquema) con la que trabajar durante el semestre. Agrega el tipo de dato que supones tendra cada uno de tus atributos~~
+4. ~~investigar diferentes SGBD, elegir alguno y describirlo. Citar adecuadamente. Plagio invalida tarea~~
+5. ~~subir esta descripcion en un archivo MD o PDF claramente (ponerle de nombre tarea 1 o algo asi)~~
 
 
 ## Tarea resuelta: 
 
-3. La base de datos que elegí es "European Soccer Database". Esta base contiene informacion de miles de partidos de las ligas top de Europa, desde 2008 hasta 2016. También contiene estadísticas de cada jugador basadas en el videojeugo FIFA. La información de los partidos abarca desde los resultados, goles, hasta las alineaciones medidas en coordenadas.
+### Punto 3
+3. La base de datos que elegí es "European Soccer Database", de Kaggle. Esta base contiene informacion de miles de partidos de las ligas top de Europa, desde 2008 hasta 2016. También contiene estadísticas de cada jugador basadas en el videojeugo FIFA. La información de los partidos abarca desde los resultados, goles, hasta las alineaciones medidas en coordenadas.
 La base de datos se encuentra en sqlite y pesa aproximadamente 313MB. 
 La base esta conformada por 7 datasets relacionados, desde los paises de las ligas hasta información detallada de los equipos y de los jugadores. 
 
@@ -25,6 +26,7 @@ A grandes rasgos se describe el contenido de los datasets:
 
 Los tipos de datos dentro de esta base se componen por 136 columnas de tipo Integer, 33 columnas de tipo string y 30 columnas de tipo decimal (en total 199 columnas unicas dentro de los 7 datasets)
 
+### Punto 4
 4. Algunos de los SGBDs más ampliamente usados son:
 - MySQL
 - PostgreSQL

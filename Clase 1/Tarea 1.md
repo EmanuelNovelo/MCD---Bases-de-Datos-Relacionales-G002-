@@ -11,7 +11,7 @@
 ## Tarea resuelta: 
 
 ### Punto 3
-3. La base de datos que elegí es "European Soccer Database", de Kaggle. Esta base contiene informacion de miles de partidos de las ligas top de Europa, desde 2008 hasta 2016. También contiene estadísticas de cada jugador basadas en el videojeugo FIFA. La información de los partidos abarca desde los resultados, goles, hasta las alineaciones medidas en coordenadas.
+La base de datos que elegí es "European Soccer Database", de Kaggle. Esta base contiene informacion de miles de partidos de las ligas top de Europa, desde 2008 hasta 2016. También contiene estadísticas de cada jugador basadas en el videojeugo FIFA. La información de los partidos abarca desde los resultados, goles, hasta las alineaciones medidas en coordenadas.
 La base de datos se encuentra en sqlite y pesa aproximadamente 313MB. 
 La base esta conformada por 7 datasets relacionados, desde los paises de las ligas hasta información detallada de los equipos y de los jugadores. 
 
@@ -27,7 +27,7 @@ A grandes rasgos se describe el contenido de los datasets:
 Los tipos de datos dentro de esta base se componen por 136 columnas de tipo Integer, 33 columnas de tipo string y 30 columnas de tipo decimal (en total 199 columnas unicas dentro de los 7 datasets)
 
 ### Punto 4
-4. Algunos de los SGBDs más ampliamente usados son:
+Algunos de los SGBDs más ampliamente usados son:
 - MySQL
 - PostgreSQL
 - Microsoft SQL Server

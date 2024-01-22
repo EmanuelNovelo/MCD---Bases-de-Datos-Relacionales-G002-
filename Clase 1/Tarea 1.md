@@ -39,7 +39,7 @@ Para este curso elegiré SQLite, ya que aunque el maestro nos recomendó utiliza
 
 A continuación se describe SQLite.
 
-SQLite es un sistema de gestión de base de datos de dominio público creado por Richard Hip en el año 2000, que no almacena la información en un servidor terciario, sino dentro del mismo sistema del computador (disco duro) o srevidor que se esté utilizando (Esto a diferencia de por ejemplo MySQL, que se almacena en un servidor terciario que es compartido y puede ser accesado de forma simultánea por diversos usarios). 
+SQLite es un sistema de gestión de base de datos de dominio público creado por Richard Hip en el año 2000, que no almacena la información en un servidor terciario, sino dentro del mismo sistema del computador (disco duro) o servidor que se esté utilizando (Esto a diferencia de por ejemplo MySQL, que se almacena en un servidor terciario que es compartido y puede ser accesado de forma simultánea por diversos usarios). 
 SQLite es una alternativa muy prática para el manejo de datos de gran escala y de uso individual. 
 SQLite por supuesto funciona con los query's en lenguaje SQL y posee conmpatibilidad también con dispositivos móbiles. 
 Una de las grandes ventajas de SQLite (que seguramente no tenga importancia para la finalidad co la que lo usaré) es que SQLite es de dominio público, es decir que no tiene licencia por lo que cualquiera puede integrarlo dentro de sus propios productos o servicios sin ningún problema legal, a diferencia por ejemplo de MySQL que no es de dominio público.

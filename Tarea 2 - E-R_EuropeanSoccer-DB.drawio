@@ -1,0 +1,226 @@
+<mxfile host="app.diagrams.net" modified="2024-01-27T00:47:47.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="D68xxAUCfpfC8gHN4YSx" version="21.7.2" type="device">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="1323" dy="845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-1" value="country" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-2" value="id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-3" value="name" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-4" value="entity" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="860" y="260" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-5" value="id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="730" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-8" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;country_id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="910" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-9" value="name" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-10" value="match" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="420" y="760" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-11" value="id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="80" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-12" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;country_id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-13" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;league id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="430" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-14" value="season" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-16" value="stage" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="755" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-17" value="date" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="910" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-18" value="player" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-19" value="id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-21" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;player_api_id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-22" value="player_name" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-24" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;player_fifa_api_id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-25" value="birtdhay" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-26" value="height" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-27" value="weight" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2420" y="200" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-28" value="player_attributes" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2510" y="790" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-29" value="id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-30" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;player_api_id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-31" value="date" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-32" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;player_fifa_api_id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-33" value="overall_rataing" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-34" value="potential" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-35" value="preferred:_foot" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-36" value="attacking_work_rate" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-37" value="defensive_work_rate" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2740" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-38" value="finishing" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2900" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-39" value="short_passing" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-40" value="dribbling" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3230" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-41" value="ball_control" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3400" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-42" value="sprint_speed" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3560" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-43" value="agility" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3720" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-44" value="reactions" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3880" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-45" value="jumping" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="4050" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-46" value="stamina" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="4220" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-47" value="strenght" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="4375" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-48" value="positioning" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="4535" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-49" value="marking" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="4705" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-50" value="standing_tackle" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="4875" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-51" value="gk_diving" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="5030" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-52" value="gk_positioning" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="5200" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-53" value="gk_reflexes" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="5370" y="660" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-55" value="team" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="1210" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-56" value="id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="1110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-57" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;team_api_id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="1110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-58" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;team_fifa_api_id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="1110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-59" value="team_long_name" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="1110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-60" value="team_short_name" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="1110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-61" value="team_attributes" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2550" y="1680" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-62" value="id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="1570" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-63" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;team_api_id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="1570" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-64" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;team_fifa_api_id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1750" y="1570" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-65" value="date" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="1570" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-66" value="BuildUpPlaySpeed" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="1570" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-67" value="BuildUpPlaySpeedClass" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="1570" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-68" value="BuildUpPlayDribbling" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2560" y="1570" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-69" value="BuildUpPlayDribbllingClass" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="1570" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-70" value="BuildUpPlayPassing" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2880" y="1570" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-71" value="BuildUpPlayPassingClass" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3040" y="1570" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-72" value="ChanceCreationPassing" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3200" y="1570" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-74" value="ChanceCreationPassingClass" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3360" y="1570" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-75" value="DefencePreassure" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3520" y="1570" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-76" value="defencePreassureClass" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3680" y="1570" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-77" value="defenceTeamWidth" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3840" y="1570" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-78" value="defenceTeamWidthClass" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="4000" y="1570" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xEtqjnEDx3SA-vTQzBdL-79" value="defenceDefenderLineClass" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="4160" y="1570" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

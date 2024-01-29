@@ -7,4 +7,4 @@ Esta fue la primera actividad
 ## Aqui la lista de tareas
 
 - [Tarea 1](./Clase%201/Tarea%201.md)
-- [Tarea 2](./Tarea%202%20-%20E-R_EuropeanSoccer-DB.drawio)
+- [Tarea 2](./Tarea%202.md)

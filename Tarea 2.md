@@ -7,7 +7,8 @@
 
 ## Tarea Resuelta
 
-El diagrama de E-R se anexa por separado.
+El diagrama de E-R se anexa en el siguiente link:
+![European Soccer DB - E-R](https://github.com/EmanuelNovelo/MCD---Bases-de-Datos-Relacionales-G002-/blob/main/Tarea%202%20-%20E-R_EuropeanSoccer-DB%20IMAGEN.svg)
 
 ### Punto 3
 

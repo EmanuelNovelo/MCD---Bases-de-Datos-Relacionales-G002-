@@ -48,3 +48,6 @@ Descripción: Se muestran las características básicas de los equipos, no cambi
 team_attributes:
 Descripción: Atributos tácticos y técnicos de los equipos, cambian en el tiempo
 - N a 1 match; muchos (2) equipos juegan en 1 partido / no se incluye en diagrama* (duda a realizarse en Clase)
+
+
+.

@@ -9,4 +9,4 @@
 ## Tarea resuelta
 
 1. Se anexa PDf
-![Esquema Modelo Relacional]()
+![Esquema Modelo Relacional](https://github.com/EmanuelNovelo/MCD---Bases-de-Datos-Relacionales-G002-/blob/main/Tarea%203%20recursos/Tarea%203%20-%20Ejercicio%201.pdf)

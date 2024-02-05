@@ -8,4 +8,4 @@ Esta fue la primera actividad
 
 - [Tarea 1](./Clase%201/Tarea%201.md)
 - [Tarea 2](./Tarea%202.md)
-- [Tarea 3](./Clase%201/)
+- [Tarea 3](./Tarea%203.md)

@@ -8,5 +8,7 @@
 
 ## Tarea resuelta
 
-1. Se anexa PDf
+1. Se anexa PDf con el esquema relacional de la base European Soccer Database
 ![Esquema Modelo Relacional](https://github.com/EmanuelNovelo/MCD---Bases-de-Datos-Relacionales-G002-/blob/main/Tarea%203%20recursos/Tarea%203%20-%20Ejercicio%201.pdf)
+2. Se anexa imagen del diagrama del esquema relacional
+![Diagrama Modelo Relacional]()

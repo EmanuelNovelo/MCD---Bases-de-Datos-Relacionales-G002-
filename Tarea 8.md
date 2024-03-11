@@ -8,5 +8,8 @@ Esta vista essirve para conocer qué jugadores (y de qué equipos), participaron
 
 Se anexa script e imágenes.
 
-[script](./Tarea%208%20recursos/Scirpt-tarea-8_Views&triggers.sql)
+[script](./Tarea%208%20recursos/Scirpt-tarea-8_Views&triggers.sql)  
 [imagen1](./Tarea%208%20recursos/view.png)
+
+2. *Triggers*
+

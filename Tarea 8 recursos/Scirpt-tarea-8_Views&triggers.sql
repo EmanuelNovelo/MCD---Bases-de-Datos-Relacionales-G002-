@@ -1,4 +1,4 @@
--- jugadores que jugaron un determinado partido y el equipo al que pertenecen
+-- Creacion de vista: jugadores que jugaron un determinado partido y el equipo al que pertenecen
 
 CREATE VIEW vista_detalle_partido AS
 SELECT
@@ -25,3 +25,25 @@ WHERE
 SELECT * FROM vista_detalle_partido
     
 -- 
+
+-- Creación de Trigger: Bitacora de registros de partidos
+
+-- creando tabla de bitacora con el nombre de la persona que registró el partido, así como la fecha en que se registró
+CREATE TABLE bitacora_matches (
+    id_bitacora INTEGER PRIMARY KEY AUTOINCREMENT,
+    id_match INTEGER,
+    registered_by TEXT,
+    register_date TIMESTAMP
+);
+
+-- creando el trigger
+CREATE TRIGGER trg_bitcora_insert
+AFTER INSERT ON "Match"  
+FOR EACH ROW
+BEGIN
+    INSERT INTO bitacora_matches(id_match, registered_by, register_date)
+    VALUES (NEW.id_match, 'UsuarioEjemplo', CURRENT_TIMESTAMP);
+END;
+
+
+--

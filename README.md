@@ -13,4 +13,4 @@ Esta fue la primera actividad
 - Tarea 5: Se presentará BD en clase...
 - [Tarea 6](Tarea%206.md)
 - [Tarea 7](./Tarea%207.md)
-- Tarea 8 (in progress)
+- [Tarea 8](./Tarea%208.md)
